@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8bit8KeyPiano", "mvcmt\8bit8KeyPiano.csproj", "{F22C08FF-3A21-4695-BE77-C2158D317BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverAgain", "ObserverAgain\ObserverAgain.csproj", "{C3D6D399-43F9-43AA-B70C-5DFF768B8A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateEventHandling", "TemplateEventHandling\TemplateEventHandling.csproj", "{11A0D409-7860-4292-8D89-F0821CE103EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threadintests", "Threadintests\Threadintests.csproj", "{81D0744A-1F27-43B8-8348-94D3D6213E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F22C08FF-3A21-4695-BE77-C2158D317BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22C08FF-3A21-4695-BE77-C2158D317BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22C08FF-3A21-4695-BE77-C2158D317BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22C08FF-3A21-4695-BE77-C2158D317BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D6D399-43F9-43AA-B70C-5DFF768B8A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D6D399-43F9-43AA-B70C-5DFF768B8A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D6D399-43F9-43AA-B70C-5DFF768B8A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D6D399-43F9-43AA-B70C-5DFF768B8A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A0D409-7860-4292-8D89-F0821CE103EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A0D409-7860-4292-8D89-F0821CE103EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A0D409-7860-4292-8D89-F0821CE103EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A0D409-7860-4292-8D89-F0821CE103EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D0744A-1F27-43B8-8348-94D3D6213E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D0744A-1F27-43B8-8348-94D3D6213E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D0744A-1F27-43B8-8348-94D3D6213E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D0744A-1F27-43B8-8348-94D3D6213E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
